@@ -7,10 +7,19 @@
 <# const int N = 10; #>
 namespace T4TemplateExample
 {
-    class ClassWitItemProperties
+    /// <summary>
+    /// Sample class with automatically generated Item properties.
+    /// </summary>
+    public class ClassWitItemProperties
     {
         <# for (int i = 0; i < N; ++i) {#>
-            public int Item<#= i #> { get; set; }
+/// <summary>
+        /// Gets or sets value of Item<#= i #>.
+        /// </summary>
+        public int Item<#= i #> { get; set; }
+        <# if (i < N -1) {#>
+
+        <# } #>
         <# } #>
     }
 }

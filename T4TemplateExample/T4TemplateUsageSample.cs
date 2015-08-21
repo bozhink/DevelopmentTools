@@ -1,11 +1,17 @@
-﻿using System;
-using System.Xml;
-
-namespace T4TemplateExample
+﻿namespace T4TemplateExample
 {
-    class T4TemplateUsageSample
+    using System;
+    using System.Xml;
+
+    /// <summary>
+    /// Sample for demonstration of T4 templates usage.
+    /// </summary>
+    public static class T4TemplateUsageSample
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Start point for this application.
+        /// </summary>
+        public static void Main()
         {
             ClassWitItemProperties classWithItems = new ClassWitItemProperties();
             classWithItems.Item4 = 10;
