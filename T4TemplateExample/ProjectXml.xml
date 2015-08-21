@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<file>App.config</file>
+	<file>ClassWithItemProperties.cs</file>
+	<file>ClassWithItemProperties.tt</file>
+	<file>ProjectXml.tt</file>
+	<file>ProjectXml.xml</file>
+	<file>T4TemplateExample.csproj</file>
+	<file>T4TemplateUsageSample.cs</file>
+</project>

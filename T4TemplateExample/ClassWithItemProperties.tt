@@ -1,0 +1,16 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+<# const int N = 10; #>
+namespace T4TemplateExample
+{
+    class ClassWitItemProperties
+    {
+        <# for (int i = 0; i < N; ++i) {#>
+            public int Item<#= i #> { get; set; }
+        <# } #>
+    }
+}
