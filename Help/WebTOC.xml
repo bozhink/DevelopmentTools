@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="9cd6ee8a-d46b-4df9-9e7f-4cb313c051b2" Title="Log4NetUsageExample" Url="html/94633283-ebad-af03-0295-21944db312a0.htm">
+    <HelpTOCNode Id="62faec15-55e5-4757-abfb-caaec649c7f6" Title="Log4NetUsageSample Class" Url="html/ac6468cb-15fb-6728-c467-5b7cafc9a8a6.htm">
+      <HelpTOCNode Id="ee7e73b4-121d-4386-b77e-bc6fb8fed2cc" Title="Log4NetUsageSample Methods" Url="html/eea5682d-4f6c-6b68-677d-a3e769bef606.htm">
+        <HelpTOCNode Title="Main Method " Url="html/005922d1-f8ff-d052-7023-c754cddad25e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="1d1c50e1-5cb7-4840-be6f-80feb722a8cf" Title="T4TemplateExample" Url="html/1d63f6a0-7984-0268-ec5d-74bd15698d89.htm">
+    <HelpTOCNode Id="b597e25c-b7c9-4a7b-8dd5-42d4352b8c59" Title="ClassWitItemProperties Class" Url="html/ec03bcfa-35a4-41a5-d848-df3d2582d873.htm">
+      <HelpTOCNode Title="ClassWitItemProperties Constructor " Url="html/d38a1728-ff60-4010-38cf-6564e2e1f076.htm" />
+      <HelpTOCNode Title="ClassWitItemProperties Methods" Url="html/2757531e-81d6-7e7a-76c5-83f19a3d8ab2.htm" />
+      <HelpTOCNode Id="66400bb1-0592-4b1f-852c-0a339e38ff24" Title="ClassWitItemProperties Properties" Url="html/61684749-efb9-217f-38d8-440e3ef26d70.htm">
+        <HelpTOCNode Title="Item0 Property " Url="html/f16c71e4-4f2d-e3c1-11e7-5034e913c08c.htm" />
+        <HelpTOCNode Title="Item1 Property " Url="html/3467e875-707f-ebd4-18e5-fac244ef3def.htm" />
+        <HelpTOCNode Title="Item2 Property " Url="html/80674d69-b7d1-2c16-79fa-a6504ef91c0a.htm" />
+        <HelpTOCNode Title="Item3 Property " Url="html/0a0f1bbb-2608-8e17-541a-de24434e6d85.htm" />
+        <HelpTOCNode Title="Item4 Property " Url="html/c2b0489e-f77b-5d82-cc07-c87c52e1fe25.htm" />
+        <HelpTOCNode Title="Item5 Property " Url="html/e23dfadf-52d9-dc84-94cc-e883b2aff6da.htm" />
+        <HelpTOCNode Title="Item6 Property " Url="html/3dc82cac-2824-270b-f038-1cfdb4cfcf6c.htm" />
+        <HelpTOCNode Title="Item7 Property " Url="html/533ebd69-c59b-956b-1ede-dd89a9a67c3e.htm" />
+        <HelpTOCNode Title="Item8 Property " Url="html/3bd10a6a-f225-723b-dd2c-a21f77052a46.htm" />
+        <HelpTOCNode Title="Item9 Property " Url="html/8952fde6-1630-6756-7202-bb59c887dd71.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="10c83170-5373-4fb8-88ef-c40115fbfda6" Title="T4TemplateUsageSample Class" Url="html/9686544d-2dc7-0ec0-e1b8-fade587d92de.htm">
+      <HelpTOCNode Id="d2f36d44-52b9-476c-8d71-11172bfb026a" Title="T4TemplateUsageSample Methods" Url="html/66b2e382-7fa3-144f-bf98-04a7ace4e609.htm">
+        <HelpTOCNode Title="Main Method " Url="html/e7297de8-42ac-166d-1512-2eec57ff0056.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

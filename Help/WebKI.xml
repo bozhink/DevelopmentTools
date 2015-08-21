@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ClassWitItemProperties class">
+    <HelpKINode Title="ClassWitItemProperties Class" Url="html/ec03bcfa-35a4-41a5-d848-df3d2582d873.htm" />
+    <HelpKINode Title="about ClassWitItemProperties class" Url="html/ec03bcfa-35a4-41a5-d848-df3d2582d873.htm" />
+    <HelpKINode Title="constructor" Url="html/d38a1728-ff60-4010-38cf-6564e2e1f076.htm" />
+    <HelpKINode Title="methods" Url="html/2757531e-81d6-7e7a-76c5-83f19a3d8ab2.htm" />
+    <HelpKINode Title="properties" Url="html/61684749-efb9-217f-38d8-440e3ef26d70.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassWitItemProperties.ClassWitItemProperties constructor" Url="html/d38a1728-ff60-4010-38cf-6564e2e1f076.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item0 property" Url="html/f16c71e4-4f2d-e3c1-11e7-5034e913c08c.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item1 property" Url="html/3467e875-707f-ebd4-18e5-fac244ef3def.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item2 property" Url="html/80674d69-b7d1-2c16-79fa-a6504ef91c0a.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item3 property" Url="html/0a0f1bbb-2608-8e17-541a-de24434e6d85.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item4 property" Url="html/c2b0489e-f77b-5d82-cc07-c87c52e1fe25.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item5 property" Url="html/e23dfadf-52d9-dc84-94cc-e883b2aff6da.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item6 property" Url="html/3dc82cac-2824-270b-f038-1cfdb4cfcf6c.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item7 property" Url="html/533ebd69-c59b-956b-1ede-dd89a9a67c3e.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item8 property" Url="html/3bd10a6a-f225-723b-dd2c-a21f77052a46.htm" />
+  <HelpKINode Title="ClassWitItemProperties.Item9 property" Url="html/8952fde6-1630-6756-7202-bb59c887dd71.htm" />
+  <HelpKINode Title="Item0 property" Url="html/f16c71e4-4f2d-e3c1-11e7-5034e913c08c.htm" />
+  <HelpKINode Title="Item1 property" Url="html/3467e875-707f-ebd4-18e5-fac244ef3def.htm" />
+  <HelpKINode Title="Item2 property" Url="html/80674d69-b7d1-2c16-79fa-a6504ef91c0a.htm" />
+  <HelpKINode Title="Item3 property" Url="html/0a0f1bbb-2608-8e17-541a-de24434e6d85.htm" />
+  <HelpKINode Title="Item4 property" Url="html/c2b0489e-f77b-5d82-cc07-c87c52e1fe25.htm" />
+  <HelpKINode Title="Item5 property" Url="html/e23dfadf-52d9-dc84-94cc-e883b2aff6da.htm" />
+  <HelpKINode Title="Item6 property" Url="html/3dc82cac-2824-270b-f038-1cfdb4cfcf6c.htm" />
+  <HelpKINode Title="Item7 property" Url="html/533ebd69-c59b-956b-1ede-dd89a9a67c3e.htm" />
+  <HelpKINode Title="Item8 property" Url="html/3bd10a6a-f225-723b-dd2c-a21f77052a46.htm" />
+  <HelpKINode Title="Item9 property" Url="html/8952fde6-1630-6756-7202-bb59c887dd71.htm" />
+  <HelpKINode Title="Log4NetUsageExample namespace" Url="html/94633283-ebad-af03-0295-21944db312a0.htm" />
+  <HelpKINode Title="Log4NetUsageExample.Log4NetUsageSample class" Url="html/ac6468cb-15fb-6728-c467-5b7cafc9a8a6.htm" />
+  <HelpKINode Title="Log4NetUsageSample class">
+    <HelpKINode Title="Log4NetUsageSample Class" Url="html/ac6468cb-15fb-6728-c467-5b7cafc9a8a6.htm" />
+    <HelpKINode Title="about Log4NetUsageSample class" Url="html/ac6468cb-15fb-6728-c467-5b7cafc9a8a6.htm" />
+    <HelpKINode Title="methods" Url="html/eea5682d-4f6c-6b68-677d-a3e769bef606.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Log4NetUsageSample.Main method" Url="html/005922d1-f8ff-d052-7023-c754cddad25e.htm" />
+  <HelpKINode Title="Main method">
+    <HelpKINode Title="Log4NetUsageSample.Main Method " Url="html/005922d1-f8ff-d052-7023-c754cddad25e.htm" />
+    <HelpKINode Title="T4TemplateUsageSample.Main Method " Url="html/e7297de8-42ac-166d-1512-2eec57ff0056.htm" />
+  </HelpKINode>
+  <HelpKINode Title="T4TemplateExample namespace" Url="html/1d63f6a0-7984-0268-ec5d-74bd15698d89.htm" />
+  <HelpKINode Title="T4TemplateExample.ClassWitItemProperties class" Url="html/ec03bcfa-35a4-41a5-d848-df3d2582d873.htm" />
+  <HelpKINode Title="T4TemplateExample.T4TemplateUsageSample class" Url="html/9686544d-2dc7-0ec0-e1b8-fade587d92de.htm" />
+  <HelpKINode Title="T4TemplateUsageSample class">
+    <HelpKINode Title="T4TemplateUsageSample Class" Url="html/9686544d-2dc7-0ec0-e1b8-fade587d92de.htm" />
+    <HelpKINode Title="about T4TemplateUsageSample class" Url="html/9686544d-2dc7-0ec0-e1b8-fade587d92de.htm" />
+    <HelpKINode Title="methods" Url="html/66b2e382-7fa3-144f-bf98-04a7ace4e609.htm" />
+  </HelpKINode>
+  <HelpKINode Title="T4TemplateUsageSample.Main method" Url="html/e7297de8-42ac-166d-1512-2eec57ff0056.htm" />
+</HelpKI>
